@@ -1,4 +1,4 @@
-# Hi! I'm Pablo, a UX Engineer.
+# Hi! I'm Pablo, a UX Engineer: UX/UI Designer & Front-End Developer.
 
 +15 years of experience. The perfect balance between designer and frontend developer. A layout designer by nature. I design and build useful and beautiful things to make our life easier.
 
