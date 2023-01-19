@@ -38,7 +38,7 @@ La lectura, la escritura y la escucha van bien. El habla, debo practicarlo. Actu
 
 Me gustaría seguir aprendiendo y ampliando mis conocimientos en JavaScript moderno, TypeScript, React, Next.js, Git, GitHub y VIM.
 
-**¿Algo más que quieras contar…?**
+### 👉 ¿Algo más que quieras contar…?
 
 Claro! Vivo en Bahía Blanca, Argentina. Tengo una esposa, Silvana, que es genial y me permite desplegarme como profesional junto a nuestros dos hijos, Miquela y Jonás, que son los más lindos del mundo.
 
