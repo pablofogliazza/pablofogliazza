@@ -1,6 +1,6 @@
 # <code><span style="color: #42bba1;">This section is under construction... ;)</code>
 
-## Hi! I'm Pablo, a UX Engineer: UX/UI Designer & Front-End Developer.
+# Hola, mi nombre es Pablo. Soy UI Designer & Front-End Developer. Diseñador web freelance desde el 2005. Actualmente trabajo como front-end developer en un equipo de la empresa MoovMedia Group.
 
 +15 years of experience. The perfect balance between designer and frontend developer. A layout designer by nature. I design and build useful and beautiful things to make our life easier.
 
