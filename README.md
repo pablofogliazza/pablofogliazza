@@ -1,8 +1,3 @@
-## Acerca de mi (FAQ para reclutadores 👀).
-  
-Hola 👋, mi nombre es Pablo. Soy UI Designer & Front-End Developer. Diseñador web freelance desde el 2005. Actualmente trabajo como front-end developer en un equipo de la empresa MoovMedia Group.
-
-
 
 
 <!---
