@@ -1,4 +1,4 @@
-
+![Header](https://cdn.bsky.app/img/banner/plain/did:plc:cymrl7e4srhp3s3ptlkypnol/bafkreicdh7taqtvmacgjv2hdwjbxnlykgsvewksjilawf2xwfrf75fjsr4@jpeg)
 
 <!---
 - 👋 Hi, I’m @pablofogliazza
