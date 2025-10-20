@@ -1,5 +1,7 @@
 ![Header](https://cdn.bsky.app/img/banner/plain/did:plc:cymrl7e4srhp3s3ptlkypnol/bafkreicdh7taqtvmacgjv2hdwjbxnlykgsvewksjilawf2xwfrf75fjsr4@jpeg)
 
+Frontend Developer | WordPress Specialist | Building interactive web experiences
+
 <!---
 - 👋 Hi, I’m @pablofogliazza
 - 👀 I’m interested in ...
